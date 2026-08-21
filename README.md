@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/defense-dark.svg">
   <img alt="Contribution Defense" src="dist/defense-light.svg" width="100%">
